@@ -1,0 +1,12 @@
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\upload\SteamBadgeUnlocker.Game.exe.config
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\upload\SteamBadgeUnlocker.Game.exe
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Game\obj\x86\Release\SteamBadgeUnlocker.Game.csproj.AssemblyReference.cache
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Game\obj\x86\Release\SteamBadgeUnlocker.Game.Manager.resources
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Game\obj\x86\Release\SteamBadgeUnlocker.Game.Resources.resources
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Game\obj\x86\Release\SteamBadgeUnlocker.Game.csproj.GenerateResource.cache
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Game\obj\x86\Release\SteamBadgeUnlocker.Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Game\obj\x86\Release\SteamBadgeUnlocker.Game.AssemblyInfoInputs.cache
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Game\obj\x86\Release\SteamBadgeUnlocker.Game.AssemblyInfo.cs
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Game\obj\x86\Release\SteamBadgeUnlocker.Game.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Game\obj\x86\Release\SteamBad.53E80540.Up2Date
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Game\obj\x86\Release\SteamBadgeUnlocker.Game.exe

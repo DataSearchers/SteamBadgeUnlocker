@@ -1,0 +1,12 @@
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Picker\obj\x86\Release\SteamBadgeUnlocker.Picker.csproj.AssemblyReference.cache
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Picker\obj\x86\Release\SteamBadgeUnlocker.Picker.GamePicker.resources
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Picker\obj\x86\Release\SteamBadgeUnlocker.Picker.Resources.resources
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Picker\obj\x86\Release\SteamBadgeUnlocker.Picker.csproj.GenerateResource.cache
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Picker\obj\x86\Release\SteamBadgeUnlocker.Picker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Picker\obj\x86\Release\SteamBadgeUnlocker.Picker.AssemblyInfoInputs.cache
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Picker\obj\x86\Release\SteamBadgeUnlocker.Picker.AssemblyInfo.cs
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Picker\obj\x86\Release\SteamBadgeUnlocker.Picker.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\upload\SteamBadgeUnlocker.Picker.exe.config
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\upload\SteamBadgeUnlocker.Picker.exe
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Picker\obj\x86\Release\SteamBad.6257B2A8.Up2Date
+C:\Users\Unknown\source\repos\SteamAchievementManager-master\SteamBadgeUnlocker.Picker\obj\x86\Release\SteamBadgeUnlocker.Picker.exe
